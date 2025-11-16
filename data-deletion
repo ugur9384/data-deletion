@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Veri Silme Talimatı</title>
+</head>
+<body>
+  <h1>Veri Silme Talimatı (Fashion App)</h1>
+  
+  <p>
+    Uygulamamız, Facebook ile giriş yaptığınızda aldığınız 
+    isim ve e-posta gibi bilgileri kendi sunucularımızda <b>saklamamaktadır.</b>
+  </p>
+  
+  <p>
+    Uygulamamız ile Facebook hesabınız arasındaki bağlantıyı 
+    tamamen kesmek ve izinleri kaldırmak için:
+  </p>
+  
+  <ol>
+    <li>Facebook Ayarlarınıza gidin.</li>
+    <li>Sol menüden "Uygulamalar ve Web Siteleri" (Apps and Websites) bölümünü seçin.</li>
+    <li>Listeden "Fashion"  uygulamasını bulun.</li>
+    <li>"Kaldır" (Remove) butonuna basın.</li>
+  </ol>
+  
+  <p>
+    Bu işlemi yaptığınızda, Facebook'un uygulamanızla paylaştığı 
+    tüm bağlantı kaldırılmış olur.
+  </p>
+
+</body>
+</html>
